@@ -2,71 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51bf0d7c-8d6d-4bfb-8210-3750999b97df" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/Homework15.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/comments.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coffee.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/donec-ligula.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/duis-bibendum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hamburger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hamburgers.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/integer-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tincidunt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/custom-header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/customizer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/jetpack.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/template-functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/template-tags.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/customizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/navigation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/skip-link-focus-fix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/panakeia.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layouts/content-sidebar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layouts/sidebar-content.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpcs.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_basis.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/layout/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/layout/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/layout/_header.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/layout/_sections.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/pages/_home.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/utils/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sidebar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/single.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/content-none.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/content-page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/content-search.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress.sql" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,8 +31,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -222,16 +159,15 @@
       <option name="presentableId" value="Default" />
       <updated>1517914812067</updated>
       <workItem from="1517914813374" duration="9350000" />
-      <workItem from="1517937654685" duration="3330000" />
+      <workItem from="1517937654685" duration="3449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12680000" />
+    <option name="totallyTimeSpent" value="12799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2526475" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -240,7 +176,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5057283" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -398,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
           <folding />
         </state>
       </provider>
