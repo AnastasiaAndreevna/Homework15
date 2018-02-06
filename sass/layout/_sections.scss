@@ -1,0 +1,192 @@
+.integer-background {
+    background: url("../img/integer-background.png") no-repeat top center / cover;
+}
+
+.ournews_background {
+    background-color: #edeff1;
+}
+
+.newsletter-background {
+    background: url("../img/hamburgers.png") no-repeat bottom center / cover;
+}
+
+.links-background {
+    background: #d75d0e;
+}
+
+.title {
+    color: #ffffff;
+    font-family: "Roboto Slab", sans-serif;
+    line-height: 48px;
+    text-align: center;
+    height: 80vh;
+    padding-top: 27vw;
+}
+
+h1 {
+    font-size: 72px;
+    font-weight: 300;
+    margin: 0;
+}
+
+.finibus {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.ournews_background li,
+.foot li {
+    text-align: center;
+    display: inline-block;
+    width: 33%;
+}
+
+.paragraphs {
+    white-space: pre-line;
+}
+
+.titles {
+    color: #ffffff;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.paragraphs {
+    color: #ffffff;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.title-ournews {
+    margin-top: -10px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: #31353e;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.ournews_background h3 {
+    color: #31353e;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.ournews_background p {
+    color: #31353e;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.ournews_background a {
+    display: inline-block;
+    border-radius: 27px;
+    background-color: #ffffff;
+    color: #4e5159;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 30px;
+    padding: 10px 52px 10px 56px;
+    margin-bottom: 90px;
+}
+
+.ournews_background a:hover {
+    transform: translateY(2em);
+    transition: 1s;
+
+}
+
+.newsletter-background {
+    height: 40vh;
+}
+
+.newsletter-background h3 {
+    color: #ffffff;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    padding-top: 50px;
+    margin: 0;
+    margin-top: -25px;
+}
+
+.newsletter-background p {
+    display: block;
+    color: #ffffff;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+.list-ipsum {
+    padding-bottom: 10vw;
+    position: relative;
+
+}
+
+.list-ipsum h3 {
+    color: #191b29;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+
+}
+
+.first-list {
+    float: left;
+}
+
+.second-list {
+    float: right;
+}
+
+.list-ipsum .paragraph-list {
+    white-space: pre-line;
+    color: #191b29;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.first-list:after {
+    position: absolute;
+    top: 40px;
+    right: 10vw;
+    float: right;
+    content: '';
+    display: block;
+    border: 1px solid #dbdbdb;
+    height: 25vw;
+    width: 35vw;
+    margin-left: 40vw;
+
+}
+
+/*The element is located so because it's beautiful*/
+.second-list:before {
+    float: left;
+    content: '';
+    display: block;
+    border: 1px solid #dbdbdb;
+    height: 25vw;
+    width: 35vw;
+}

@@ -1,0 +1,21 @@
+.button-read {
+    display: inline-block;
+    border-radius: 40px;
+    background-color: #ffffff;
+    color: #612316;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 10px 60px 10px 63px;
+    height: 8vh;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-left: 29em;
+}
+
+.button-read:hover {
+    transform: translateY(2em);
+    transition: 1s;
+
+}

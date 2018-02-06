@@ -1,0 +1,43 @@
+header {
+    background-color: #edeff1;
+    padding-right: 12vw;
+    padding-top: 20px;
+}
+
+.logo {
+    float: left;
+    margin-top: 40px;
+    margin-left: 10vw;
+}
+
+nav {
+    float: right;
+}
+
+div.custom-menu-class ul {
+    display: block;
+    margin-left: 30px;
+}
+
+div.custom-menu-class li {
+    float: right;
+    display: inline-block;
+    margin-right: 35px;
+    margin-bottom: 20px;
+    margin-top: -55px;
+}
+
+div.custom-menu-class a:hover {
+    background-color: #dd4b2b;
+    color: #edeff1;
+}
+
+div.custom-menu-class a {
+    color: #31353e;
+    font-family: "Roboto Slab", sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 15px 25px;
+    border: 1px solid transparent;
+    border-radius: 25px;
+}
