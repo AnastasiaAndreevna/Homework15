@@ -13,7 +13,16 @@
  */
 
 get_header(); ?>
-
+    <main>
+        <section style="background: url(<?php echo get_theme_mod('main_bg'); ?>;) no-repeat top center / cover">
+            <div class="container">
+                <div class="title">
+                    <h1><?php echo get_theme_mod('main_heading')?></h1>
+                </div>
+                <a href="<?php echo get_theme_mod('buttons1_link')?>" class="button-read"><?php echo get_theme_mod('buttons1_text')?></a>
+            </div>
+        </section>
+    </main>
 <?php
 get_sidebar();
 get_footer();
